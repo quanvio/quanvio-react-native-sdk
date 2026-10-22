@@ -1,6 +1,6 @@
 {
   "name": "quanvio-react-native-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native client SDK for the Quanvio One authentication system (https://one.quanvio.com)",
   "main": "lib/cjs/index.js",
   "typings": "lib/cjs/index.d.ts",
